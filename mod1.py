@@ -1,0 +1,3 @@
+def dis():
+    print('tejal')
+    
